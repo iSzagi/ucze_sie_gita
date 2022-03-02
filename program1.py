@@ -1,2 +1,4 @@
 
-print(siema)
+print('xd')
+print('xdd')
+print('yikes')
